@@ -1,0 +1,20 @@
+.sidebar{
+	position: fixed;
+	height: 100vh;
+	top: 0;
+	padding: 10px;
+	left: 0;
+	background: #ccc;
+}
+
+.arial{
+	font-family: arial;
+}
+
+.impact{
+	font-family: impact;
+}
+
+.georgia{
+	font-family: georgia;
+}
